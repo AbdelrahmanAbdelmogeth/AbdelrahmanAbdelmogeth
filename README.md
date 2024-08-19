@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AbdelrahmanAbdelmogeth Currently I'm working as a Network Access Operation Engineer at @Telecom Egypt
+- 👋 Hi, I’m @AbdelrahmanAbdelmogeth 
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Asp.Net Core 
 - 💞️ I’m looking to collaborate on Real World Projects
